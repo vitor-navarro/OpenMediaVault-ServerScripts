@@ -1,0 +1,6 @@
+Não mude o nome dos arquivos Scripts;
+Não mude o conteúdo dos arquivos Scripts sem um backup do mesmo;
+Não mude o conteúdo dos arquivos Scripts se você não sabe o que está fazendo, isso está rodando no servidor.
+
+Se você está usando o WINDOWS para criar arquivos .sh, você tem que transformar para o padrão unix/linux, o windows tem quebras de linhas diferentes do linux
+scripts rodando atualmente:
